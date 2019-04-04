@@ -107,7 +107,7 @@ class Classifier {
     await this.loadMetadata();
     return this;
   }
-
+  
   async loadMetadata() {
     const metadata =
         await loadHostedMetadata(this.urls.metadata);
