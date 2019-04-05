@@ -12,7 +12,9 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Well, Prince, so Genoa and Lucca are now just family estates of the Buonapartes.',
+  'example4':
+      'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.'   
 };
 
 function status(statusText) {
