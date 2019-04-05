@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'We left in pretty good time, and came after nightfall to Klausenburgh.',
   'example3':
       'Well, Prince, so Genoa and Lucca are now just family estates of the Buonapartes.',
   'example4':
